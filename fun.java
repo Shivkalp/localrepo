@@ -67,3 +67,5 @@ class Election2024{
      
     }
 }
+
+Author - Shashwat Shivkumar Girwalkar
