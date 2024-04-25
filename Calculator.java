@@ -1,19 +1,19 @@
 import java.lang.Math;
 
 class Calculator{
-
+      // function for addition.
    public static long addition(long a, long b){
       return (a+b);
       }
-      
+      // function for subtraction.
    public static long subtraction(long a, long b){
       return (a-b);
       }
-      
+      // function for multiplication.
    public static long multiplication(long a, long b){
       return (a*b);
       }
-      
+      // function for division.
    public static double division(long a, long b){
       try{
       if(b!=0){      
