@@ -68,6 +68,11 @@ class Calculator{
       return Math.abs(val);
       }
       
+
+   public static double tentothepower(double exp){
+	return Math.pow(10,exp);
+	}
+   
    public static void main(String ...args){
    
    }
