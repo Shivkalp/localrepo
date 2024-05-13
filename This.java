@@ -1,5 +1,4 @@
-// Java Program to implement
-// Java this reference
+
 
 // Driver Class
 public class This {
@@ -48,3 +47,6 @@ public class This {
 						+ first.get_name());
 	}
 }
+
+
+// Author - Shashwat Shivkumar Girwalkar
